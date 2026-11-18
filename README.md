@@ -15,12 +15,6 @@ Payday Live is a customizable, browser-based earnings tracker that turns time wo
 - **Focus mode** — fullscreen distraction-free view
 - **Persistent settings** — preferences and session state saved in your browser's local storage
 
-## Live Demo
-
-After enabling GitHub Pages, add your site link here:
-
-`https://YOUR-USERNAME.github.io/payday-live/`
-
 ## Run locally
 
 Download or clone this repository, then open `index.html` in your browser. No installation or build step is needed.
